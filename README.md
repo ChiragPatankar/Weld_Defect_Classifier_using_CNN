@@ -65,7 +65,7 @@ This will start a web-based interface where users can upload images and receive 
 ## Example Output
 Below is a sample output from the web application:
 
-![Sample Output](images/Screenshot_2025-03-16_015948.png)
+![Sample Output](images/Screenshot2025-03-16015948.png)
 
 ## Future Enhancements
 - Improve accuracy by fine-tuning the model.
