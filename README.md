@@ -64,6 +64,7 @@ This will start a web-based interface where users can upload images and receive 
 
 ## Example Output
 Below is a sample output from the web application:
+![Sample Output](https://raw.githubusercontent.com/ChiragPatankar/Weld_Defect_Classifier_using_CNN/main/Screenshot 2025-03-16 015948.png)
 
 ![Sample Output](Screenshot 2025-03-16 015948.png)
 
