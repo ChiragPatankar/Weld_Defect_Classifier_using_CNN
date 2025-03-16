@@ -54,6 +54,15 @@ This will start a web-based interface where users can upload images and receive 
 - Uses cross-entropy loss and Adam optimizer for training.
 - Outputs a classification prediction with probability scores.
 
+## Convolutional Neural Networks (CNNs)
+Convolutional Neural Networks (CNNs) are a class of deep learning models specifically designed for image processing tasks. They consist of multiple layers, including:
+- **Convolutional Layers**: Extract spatial features from images by applying filters.
+- **Pooling Layers**: Reduce dimensionality and retain essential information.
+- **Fully Connected Layers**: Combine extracted features to make classification decisions.
+- **Activation Functions (e.g., ReLU)**: Introduce non-linearity to improve learning capability.
+
+CNNs are effective for weld defect classification as they can learn to recognize intricate patterns in weld images, distinguishing between different defect types accurately.
+
 ## Defect Classes
 1. **Good Weld**
 2. **Burn Through**
@@ -74,4 +83,7 @@ Below is a sample output from the web application:
 
 ## License
 This project is licensed under the MIT License.
+
+
+
 
