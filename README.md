@@ -15,6 +15,10 @@ Ensure you have Python 3.8+ installed. You also need the following dependencies:
 ```sh
 pip install torch torchvision streamlit numpy pandas matplotlib pillow
 ```
+## Dataset
+The dataset used for training and testing is available on Google Drive. You can download it using the link below:
+
+[Download Dataset]([your_google_drive_link_here](https://drive.google.com/drive/folders/1-4-_7lkvVpkS-9dw6TC-daxTbngtcnjG))
 
 ## Usage
 
